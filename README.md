@@ -10,7 +10,8 @@ On day 20, We learnt to:
 4. Use screen.tracer() to turn off the auto animation
 5. Use screen.update() to refresh the screen whenever we want to refresh it. That way the movement of snake will be smoother
 6. Use time function to delay the program
-7. Make Snake Class
+7. 3-6 to make sure the snake doesn't move like caterpillar :p
+8. Make Snake Class
 
 On day 21, we learnt to:
 1. Create food for snake to munch on
