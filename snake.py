@@ -38,7 +38,6 @@ class Snake:
     def turn_right(self):
         if self.head.heading() != LEFT:
             self.head.setheading(RIGHT)
-        # pass
 
     def turn_left(self):
         if self.head.heading() != RIGHT:

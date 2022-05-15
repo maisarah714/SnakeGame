@@ -11,3 +11,12 @@ On day 20, We learnt to:
 5. Use screen.update() to refresh the screen whenever we want to refresh it. That way the movement of snake will be smoother
 6. Use time function to delay the program
 7. Make Snake Class
+
+On day 21, we learnt to:
+1. Create food for snake to munch on
+2. Pop up a new food once the snake ate the food
+3. Add scoreboard and increment score each time snake eats the food
+4. Display Game over once the snake touches the wall or its tail
+5. Learned slicing of tuple and list
+6. Give random color (and flavour!) to food
+
