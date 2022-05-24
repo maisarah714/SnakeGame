@@ -21,3 +21,4 @@ On day 21, we learnt to:
 5. Learned slicing of tuple and list
 6. Give random color (and flavour!) to food
 
+On Day 24, we came back to this project and implement file to read and store high score of the game.
